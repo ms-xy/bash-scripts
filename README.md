@@ -1,3 +1,8 @@
+### License
+
+All work in this repository is published under the MIT license.
+Please refer to the LICENSE file for detailed information.
+
 ### cdbm.sh
 
 #### Installation
